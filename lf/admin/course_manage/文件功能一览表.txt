@@ -1,0 +1,11 @@
+	文件名		功能			HTTP方式
+new.php			添加课程
+save.php		             保存添加课程		POST
+show.php
+edit.php?cno=[cno]     查看学生选课情况		 GET
+update.php	             保存学生成绩		POST
+
+
+
+
+

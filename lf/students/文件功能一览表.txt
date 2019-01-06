@@ -1,0 +1,8 @@
+	文件名		功能		HTTP动词
+index.php?sno=[sno]	学生中心		   GET
+show.php?sno=[sno]	查看已选课程	   GET
+delete.php?cno=[sno]&sno=[sno]  退课		   GET
+new.php?sno=[sno]&sdept=[sno]  选课		   GET
+save.php			   保存选课	  POST
+show1.php？sno=[sno]	查看我的评论               GET
+

@@ -1,0 +1,2 @@
+new.php——添加学生用户（注册）
+save.php——保存注册——post
